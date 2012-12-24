@@ -1,0 +1,4 @@
+D:\Programiranje\GSSBillingSystem\ServerSolutions\DocsisConfiguration\DocsisLibrary\bin\Debug\DocsisLibrary.dll
+D:\Programiranje\GSSBillingSystem\ServerSolutions\DocsisConfiguration\DocsisLibrary\bin\Debug\DocsisLibrary.pdb
+D:\Programiranje\GSSBillingSystem\ServerSolutions\DocsisConfiguration\DocsisLibrary\obj\Debug\DocsisLibrary.dll
+D:\Programiranje\GSSBillingSystem\ServerSolutions\DocsisConfiguration\DocsisLibrary\obj\Debug\DocsisLibrary.pdb
